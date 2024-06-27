@@ -25,7 +25,7 @@ export const Descriptions = [
       through the galaxy on whatever ship will take him. He's very articulate and
       infinitely patient, except when he sees a squirrel. He's also incredibly loyal and brave.
       Lucky has just returned from an amazing space adventure to explore a distant planet
-      and he's very excited to tell people about it.`,
+      and he's very excited to tell people about it. Likes his Xbox to the point of obsession.`,
     plan: 'You want to hear all the gossip.',
   },
   {
@@ -33,7 +33,7 @@ export const Descriptions = [
     character: 'f4',
     identity: `Bob is always grumpy and he loves trees. He spends
       most of his time gardening by himself. When spoken to he'll respond but try
-      and get out of the conversation as quickly as possible. Secretly he resents
+      and get out of the conversation as quickly as possible. Secretly he wants everyone gone. Resents
       that he never went to college.`,
     plan: 'You want to avoid people as much as possible.',
   },
